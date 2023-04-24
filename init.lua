@@ -8,7 +8,7 @@ setmetatable(obj, obj)
 
 -- Metadata
 obj.name = "ConfigReloader"
-obj.version = "0.0.1"
+obj.version = "0.0.2"
 obj.author = "Neta Elad <elad.neta@gmail.com>"
 obj.homepage = "https://github.com/netaelad/ConfigReloader.spoon"
 obj.license = "MIT - https://opensource.org/licenses/MIT"
