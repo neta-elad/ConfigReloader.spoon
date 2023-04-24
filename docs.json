@@ -1,0 +1,41 @@
+[
+  {
+    "Constant" : [
+
+    ],
+    "submodules" : [
+
+    ],
+    "Function" : [
+
+    ],
+    "Variable" : [
+
+    ],
+    "stripped_doc" : [
+
+    ],
+    "desc" : "Reloads hammerspoon configuration whenever a file changes",
+    "type" : "Module",
+    "Deprecated" : [
+
+    ],
+    "Constructor" : [
+
+    ],
+    "items" : [
+
+    ],
+    "Method" : [
+
+    ],
+    "Command" : [
+
+    ],
+    "doc" : "Reloads hammerspoon configuration whenever a file changes",
+    "Field" : [
+
+    ],
+    "name" : "ConfigReloader"
+  }
+]
